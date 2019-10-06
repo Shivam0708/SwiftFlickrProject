@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UberCodingRound/Modules/Home/ViewModel/HomeViewModel.swift"
+            timestampString = "592071148.832882"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "fetchImageFromFlickr(searchText:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Any&gt;, Swift.Optional&lt;UberCodingRound.ErrorResult&gt;) -&gt; () in UberCodingRound.HomeViewModel.fetchImageFromFlickr(searchText: Swift.String, completion: (Swift.Optional&lt;Any&gt;, Swift.Optional&lt;UberCodingRound.ErrorResult&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "UberCodingRound"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shivam.srivastava/Desktop/iOS%20Projects/UberCodingRound/UberCodingRound/Modules/Home/ViewModel/HomeViewModel.swift"
+                  timestampString = "592059592.304202"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "288">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Optional&lt;Any&gt;, Swift.Optional&lt;UberCodingRound.ErrorResult&gt;) -&gt; () in UberCodingRound.HomeViewModel.fetchImageFromFlickr(searchText: Swift.String, completion: (Swift.Optional&lt;Any&gt;, Swift.Optional&lt;UberCodingRound.ErrorResult&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "UberCodingRound"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shivam.srivastava/Desktop/iOS%20Projects/UberCodingRound/UberCodingRound/Modules/Home/ViewModel/HomeViewModel.swift"
+                  timestampString = "592059592.306177"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "279">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UberCodingRound/Services/SearchService.swift"
+            timestampString = "592071148.833215"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UberCodingRound/Modules/Home/ViewModel/PhotoViewModel.swift"
+            timestampString = "592071148.833437"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "fetchPhotos(searchText:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (UberCodingRound.Result&lt;UberCodingRound.SearchResultsModel, UberCodingRound.ErrorResult&gt;) -&gt; () in UberCodingRound.PhotoViewModel.fetchPhotos(searchText: Swift.String, completion: (UberCodingRound.Result&lt;UberCodingRound.SearchResultsModel, UberCodingRound.ErrorResult&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "UberCodingRound"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shivam.srivastava/Desktop/iOS%20Projects/UberCodingRound/UberCodingRound/Modules/Home/ViewModel/PhotoViewModel.swift"
+                  timestampString = "592069499.421231"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (UberCodingRound.Result&lt;UberCodingRound.SearchResultsModel, UberCodingRound.ErrorResult&gt;) -&gt; () in UberCodingRound.PhotoViewModel.fetchPhotos(searchText: Swift.String, completion: (UberCodingRound.Result&lt;UberCodingRound.SearchResultsModel, UberCodingRound.ErrorResult&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "UberCodingRound"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shivam.srivastava/Desktop/iOS%20Projects/UberCodingRound/UberCodingRound/Modules/Home/ViewModel/PhotoViewModel.swift"
+                  timestampString = "592069499.4249769"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "180">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (UberCodingRound.Result&lt;UberCodingRound.SearchResultsModel, UberCodingRound.ErrorResult&gt;) -&gt; () in UberCodingRound.PhotoViewModel.fetchPhotos(searchText: Swift.String, completion: (UberCodingRound.Result&lt;UberCodingRound.SearchResultsModel, UberCodingRound.ErrorResult&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "UberCodingRound"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shivam.srivastava/Desktop/iOS%20Projects/UberCodingRound/UberCodingRound/Modules/Home/ViewModel/PhotoViewModel.swift"
+                  timestampString = "592069499.427097"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "2834">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UberCodingRound/Modules/Home/ViewModel/PhotoViewModel.swift"
+            timestampString = "592071148.8336329"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "fetchPhotos(searchText:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UberCodingRound.PhotoViewModel.fetchPhotos(searchText: Swift.String, completion: (UberCodingRound.Result&lt;UberCodingRound.SearchResultsModel, UberCodingRound.ErrorResult&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "UberCodingRound"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shivam.srivastava/Desktop/iOS%20Projects/UberCodingRound/UberCodingRound/Modules/Home/ViewModel/PhotoViewModel.swift"
+                  timestampString = "592069499.512256"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "187">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (UberCodingRound.Result&lt;UberCodingRound.SearchResultsModel, UberCodingRound.ErrorResult&gt;) -&gt; () in UberCodingRound.PhotoViewModel.fetchPhotos(searchText: Swift.String, completion: (UberCodingRound.Result&lt;UberCodingRound.SearchResultsModel, UberCodingRound.ErrorResult&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "UberCodingRound"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shivam.srivastava/Desktop/iOS%20Projects/UberCodingRound/UberCodingRound/Modules/Home/ViewModel/PhotoViewModel.swift"
+                  timestampString = "592069499.5140181"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "173">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UberCodingRound/Modules/Home/ViewModel/PhotoViewModel.swift"
+            timestampString = "592071148.833691"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "fetchPhotos(searchText:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UberCodingRound/Modules/Home/ViewModel/PhotoViewModel.swift"
+            timestampString = "592071148.833742"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "fetchPhotos(searchText:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
